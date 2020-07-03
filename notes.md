@@ -1,5 +1,3 @@
-### Notes
-
 #### Setup Steps
 1. Download Anaconda
 2. Download additional packages - wordcloud, textblob, gensim
